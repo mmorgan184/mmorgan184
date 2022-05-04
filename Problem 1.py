@@ -1,6 +1,0 @@
-file = open ('C:/Users/mmorg/Desktop/Rosalind Problems/rosalind_dna.txt', 'r')
-string1 = file.read()
-print(string1.count('A')) 
-print(string1.count('C')) 
-print(string1.count('G')) 
-print(string1.count('T'))  
